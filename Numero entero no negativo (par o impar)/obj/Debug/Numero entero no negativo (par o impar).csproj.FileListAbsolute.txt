@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\obj\Debug\Numero entero no negativo (par o impar).csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\obj\Debug\Numero entero no negativo (par o impar).csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\bin\Debug\Numero entero no negativo (par o impar).exe.config
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\bin\Debug\Numero entero no negativo (par o impar).exe
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\bin\Debug\Numero entero no negativo (par o impar).pdb
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\obj\Debug\Numero entero no negativo (par o impar).exe
+C:\Users\erick\source\repos\Numero entero no negativo (par o impar)\obj\Debug\Numero entero no negativo (par o impar).pdb

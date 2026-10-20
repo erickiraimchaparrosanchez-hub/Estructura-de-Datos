@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\bin\Debug\Suma de enteros del 1 al n.exe.config
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\bin\Debug\Suma de enteros del 1 al n.exe
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\bin\Debug\Suma de enteros del 1 al n.pdb
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\obj\Debug\Suma de enteros del 1 al n.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\obj\Debug\Suma de enteros del 1 al n.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\obj\Debug\Suma de enteros del 1 al n.exe
+C:\Users\erick\source\repos\Suma de enteros del 1 al n\obj\Debug\Suma de enteros del 1 al n.pdb

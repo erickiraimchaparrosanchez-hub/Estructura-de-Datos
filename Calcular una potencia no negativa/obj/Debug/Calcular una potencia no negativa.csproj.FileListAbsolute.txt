@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Calcular una potencia no negativa\bin\Debug\Calcular una potencia no negativa.exe.config
+C:\Users\erick\source\repos\Calcular una potencia no negativa\bin\Debug\Calcular una potencia no negativa.exe
+C:\Users\erick\source\repos\Calcular una potencia no negativa\bin\Debug\Calcular una potencia no negativa.pdb
+C:\Users\erick\source\repos\Calcular una potencia no negativa\obj\Debug\Calcular una potencia no negativa.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Calcular una potencia no negativa\obj\Debug\Calcular una potencia no negativa.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Calcular una potencia no negativa\obj\Debug\Calcular una potencia no negativa.exe
+C:\Users\erick\source\repos\Calcular una potencia no negativa\obj\Debug\Calcular una potencia no negativa.pdb

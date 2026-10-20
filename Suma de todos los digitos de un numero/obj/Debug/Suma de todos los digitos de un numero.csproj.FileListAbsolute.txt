@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\bin\Debug\Suma de todos los digitos de un numero.exe.config
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\bin\Debug\Suma de todos los digitos de un numero.exe
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\bin\Debug\Suma de todos los digitos de un numero.pdb
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\obj\Debug\Suma de todos los digitos de un numero.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\obj\Debug\Suma de todos los digitos de un numero.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\obj\Debug\Suma de todos los digitos de un numero.exe
+C:\Users\erick\source\repos\Suma de todos los digitos de un numero\obj\Debug\Suma de todos los digitos de un numero.pdb

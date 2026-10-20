@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\bin\Debug\Cuenta regresiva desde un numero hasta 0.exe.config
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\bin\Debug\Cuenta regresiva desde un numero hasta 0.exe
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\bin\Debug\Cuenta regresiva desde un numero hasta 0.pdb
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\obj\Debug\Cuenta regresiva desde un numero hasta 0.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\obj\Debug\Cuenta regresiva desde un numero hasta 0.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\obj\Debug\Cuenta regresiva desde un numero hasta 0.exe
+C:\Users\erick\source\repos\Cuenta regresiva desde un numero hasta 0\obj\Debug\Cuenta regresiva desde un numero hasta 0.pdb
