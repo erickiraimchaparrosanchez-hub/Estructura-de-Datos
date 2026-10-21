@@ -1,4 +1,4 @@
-//Programa trata de una cuenta regresiva desde un numero hasta 0
+//Programa 8.- Programa trata de una cuenta regresiva desde un numero hasta 0
 using System;
 class Program
 {
