@@ -1,4 +1,5 @@
-﻿using System;
+//Este programa se encarga de calcular el factorial de un numero entero positivo
+using System;
 class Program
 {
     static long Factorial(int n)
