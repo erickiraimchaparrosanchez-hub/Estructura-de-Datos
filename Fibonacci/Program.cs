@@ -1,4 +1,4 @@
-//Este programa se encarga de calcular el factorial de un numero por el metodo de fibonacci
+//Progrma 2.- Este programa se encarga de calcular el factorial de un numero por el metodo de fibonacci
 using System;
 using System.Collections.Generic;
 using System.Numerics;
