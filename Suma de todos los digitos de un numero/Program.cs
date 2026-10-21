@@ -1,4 +1,4 @@
-//Este programa trata de sumar todos los digitos de un numero entero
+//Programa 6.- Este programa trata de sumar todos los digitos de un numero entero
 using System;
 
 class Program
