@@ -1,4 +1,5 @@
-﻿using System;
+//Este programa trata de sumar todos los digitos de un numero entero
+using System;
 
 class Program
 {
