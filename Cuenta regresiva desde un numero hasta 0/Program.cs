@@ -1,4 +1,5 @@
-﻿using System;
+//Programa trata de una cuenta regresiva desde un numero hasta 0
+using System;
 class Program
 {
     static void Main()
