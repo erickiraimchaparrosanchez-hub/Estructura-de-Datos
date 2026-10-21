@@ -1,4 +1,5 @@
-﻿using System;
+//Programa sobre convertir un numero entero a su forma binaria
+using System;
 class Program
 {
     static string ConvertirABinario(int n)
