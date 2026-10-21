@@ -1,4 +1,5 @@
-﻿using System;
+//Programa sobre la suma de enteros del 1 hasta n
+using System;
 class Program
 {
     static void Main()
