@@ -1,4 +1,5 @@
-﻿using System;
+//Programa q se encarga de calcular la potencia de un numero
+using System;
 class Program
 {
     static void Main()
