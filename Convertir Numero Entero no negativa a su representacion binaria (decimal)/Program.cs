@@ -1,4 +1,4 @@
-//Programa sobre convertir un numero entero a su forma binaria
+//Programa 9.- Programa sobre convertir un numero entero a su forma binaria
 using System;
 class Program
 {
