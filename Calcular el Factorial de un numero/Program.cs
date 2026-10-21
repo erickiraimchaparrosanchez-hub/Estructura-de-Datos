@@ -1,4 +1,4 @@
-//Este programa se encarga de calcular el factorial de un numero entero positivo
+//Programa 1.- Este programa se encarga de calcular el factorial de un numero entero positivo
 using System;
 class Program
 {
