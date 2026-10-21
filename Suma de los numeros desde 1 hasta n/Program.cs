@@ -1,4 +1,4 @@
-//Este programa trata sobre la suma de numeros desde 1 hasta n
+//Programa 10.- Este programa trata sobre la suma de numeros desde 1 hasta n
 using System;
 class Program
 {
