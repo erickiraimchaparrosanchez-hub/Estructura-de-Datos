@@ -1,4 +1,4 @@
-//Programa sobre la suma de enteros del 1 hasta n
+//Programa sobre la suma de enteros del 1 al n
 using System;
 class Program
 {
