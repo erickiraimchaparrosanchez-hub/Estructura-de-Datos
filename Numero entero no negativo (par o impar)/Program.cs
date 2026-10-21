@@ -1,4 +1,4 @@
-//este programa trata sobre clasificar un numero entero positivo si es par o impar
+//Programa 7.- Este programa trata sobre clasificar un numero entero positivo si es par o impar
 using System;
 class Program
 {
